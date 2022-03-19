@@ -27,12 +27,12 @@ My current research interests forcus in using GANs to solve industrial problems,
 - *2019.08*: &nbsp;🎉🎉 One paper accepted to ICCV2019.
 - *2019.07*: &nbsp;🎉🎉 One paper accepted to ACM MM2019.
 
-# 📝 Publications 
+# 📝 Publications(* equal contribution, † corresponding)
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/head_swap.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Few-Shot Head Swapping in the Wild](to be appear in CVPR2022), Changyong Shu*, Hang Zhou*, Hemao Wu, **Jiaming Liu**, Zhibin Hong, Changxing Ding, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang
+[Few-Shot Head Swapping in the Wild](to be appear in CVPR2022), Changyong Shu*, Hang Zhou*, Hemao Wu, **Jiaming Liu†**, Zhibin Hong, Changxing Ding, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang
 
 First attemp to swap heads between source and target images with 10-ish images given.</div>
 </div>
