@@ -14,6 +14,11 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% 💬 Invited Talks %}
+{% - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. %}
+{% - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) %}
+{% 💻 Internships %}
+{% - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. %}
 
 <span class='anchor' id='about-me'></span>
 I'm a Stuff Software Engineer at Computer Vision Technology Department(VIS), Baidu. 
@@ -57,9 +62,3 @@ Improving performance of few shot font generation by introducing cross attention
 - *2010.06 - 2017.04*, Ph.D., Tongji University, Shanghai.
 - *2014.09 - 2015.09*, Visiting Scholar, Columbia University, New York City. 
 
-{% # 💬 Invited Talks %}
-{% - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. %}
-{% - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) %}
-
-{% # 💻 Internships %}
-{% - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. %}
