@@ -25,7 +25,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.03*: &nbsp;🎉🎉 Two papers accepted to CVPR2022.
 - *2021.08*: &nbsp;🎉🎉 I, as the team leader, won the first place in 25-th Hackathon of Baidu. 
 - *2019.08*: &nbsp;🎉🎉 One paper accepted to ICCV2019.
-- *2019.07*: &nbsp;🎉🎉 One paper accepted to ACM MM2018.
+- *2019.07*: &nbsp;🎉🎉 One paper accepted to ACM MM2019.
 
 # 📝 Publications 
 
