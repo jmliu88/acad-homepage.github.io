@@ -36,13 +36,12 @@ My current research interests forcus in using GANs to solve industrial problems,
 
 First attemp to swap heads between source and target images with 10-ish images given.</div>
 </div>
-
 <div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Few-Shot Font Generation by Learning Fine-Grained Local Styles](to be appear in CVPR2022), Licheng Tang* Yiyang Cai∗ Jiaming Liu1†, Zhibin Hong, Mingming Gong, Minhu Fan, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang
+[Few-Shot Font Generation by Learning Fine-Grained Local Styles](to be appear in CVPR2022), Licheng Tang*, Yiyang Cai*, **Jiaming Liu†**, Zhibin Hong, Mingming Gong, Minhu Fan, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang
 
-  Improving performance of few shot font generation by introducing cross attention. </div>
+Improving performance of few shot font generation by introducing cross attention. </div>
 </div>
 
 
