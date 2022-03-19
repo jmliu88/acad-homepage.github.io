@@ -35,6 +35,7 @@ My current research interests forcus in using GANs to solve industrial problems,
 [Few-Shot Head Swapping in the Wild](to be appear in CVPR2022), Changyong Shu\*, Hang Zhou\*, Hemao Wu, **Jiaming Liu†**, Zhibin Hong, Changxing Ding, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang
 
 First attemp to swap heads between source and target images with 10-ish images given.</div>
+  
 </div>
 
 
