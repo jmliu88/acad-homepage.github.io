@@ -24,7 +24,7 @@ My current research interests forcus in using GANs to solve industrial problems,
 
 # 🔥 News
 - *2022.03*: &nbsp;🎉🎉 Two papers accepted to CVPR2022.
-- *2021.08*: &nbsp;🎉🎉 I, as the team leader, won the first place out of 200+ teams in 25-th Hackathon of Baidu. 
+- *2021.08*: &nbsp;🎉🎉 I, as the team leader, won the first place out of 200+ teams in the 25-th Hackathon of Baidu. 
 - *2019.08*: &nbsp;🎉🎉 One paper accepted to ICCV2019.
 - *2019.07*: &nbsp;🎉🎉 One paper accepted to ACM MM2019.
 
@@ -33,9 +33,9 @@ My current research interests forcus in using GANs to solve industrial problems,
 <div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Few-Shot Head Swapping in the Wild], CVPR2022, Changyong Shu\*, Hang Zhou\*, Hemao Wu, **Jiaming Liu†**, Zhibin Hong, Changxing Ding, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang
+[Few-Shot Head Swapping in the Wild], CVPR2022 (Oral), Changyong Shu\*, Hemao Wu, Hang Zhou†, **Jiaming Liu†**, Zhibin Hong, Changxing Ding, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang
 
-First attemp to swap heads between source and target images with 10-ish images given.
+First attemp to swap heads between source and target images with few shot images given.
 
 </div>
   
@@ -53,6 +53,7 @@ Improving performance of few shot font generation by introducing cross attention
 
 # 🎖 Honors and Awards
 - *2021.8* First place of the 25th Hackathon of Baidu. 
+- *2022.4* National Patient Silver Award（中国专利银奖）.
 
 # 📖 Educations
 - *2010.06 - 2017.04*, Ph.D., Tongji University, Shanghai.
