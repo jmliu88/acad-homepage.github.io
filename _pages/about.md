@@ -17,9 +17,9 @@ redirect_from:
 
 
 <span class='anchor' id='about-me'></span>
-I'm a Stuff Software Engineer at Computer Vision Technology Department(VIS), Baidu. 
+I'm a Staff Software Engineer at Computer Vision Technology Department(VIS), Baidu. 
 
-My current research interests forcus in using GANs to solve industrial problems, including face/head editing and font generation. 
+My current research interests forcus in using GANs to solve industrial problems, including face & head editing and font generation. 
 
 
 # 🔥 News
